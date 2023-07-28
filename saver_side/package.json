@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "md5": "^2.3.0",
+    "modules": "^0.4.0",
+    "my-package": "^0.0.0",
+    "node-cron": "^3.0.2",
+    "sqlite": "^4.2.1",
+    "sqlite3": "^5.1.6",
+    "yarn": "^1.22.19"
+  }
+}
